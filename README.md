@@ -81,6 +81,11 @@ The knowledge graph can be visualized as:
 
 ![Knowledge Graph](image/visualisation.png)
 
+This is how it looks like:
+
+![Knowledge Graph](image/overview.png)
+
+
 
 ## Summary
 
